@@ -1,0 +1,28 @@
+Wasn't able to upload Visual Command Prompt files onto to github, because it said the file was too big.
+myfirst.py
+print('Hello World')
+print("Hello World 2")
+x = 10
+print (x)
+x= "sanika"
+print (x)
+x = 'ram'
+print (x)
+ if age < 15:
+        print('cannot get driver permit' )
+    else:
+        print('can get driver permit')
+d = 20
+f = 14
+e = 7
+x = d + f + e
+if x <13: 
+    print ('you cannot get driver permit')
+    print (come back when you are 18)
+else 
+    print ('you can get driver permit')
+    
+    ifcondition.py
+    "Hanna" age = 12
+If name = "Hanna" and age = 12
+    print ('Your name is Hanna, and you are 12 years old')
