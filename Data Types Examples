@@ -1,0 +1,4 @@
+Data Types Examples
+int minute: 12;
+string phrase: "You are nice.";
+double version: 8.2;
